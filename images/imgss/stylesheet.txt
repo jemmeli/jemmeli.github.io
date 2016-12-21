@@ -1,0 +1,23 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-boite-de-conserve {
+    width: 95px;
+    height: 67px;
+    background-position: -5px -5px;
+}
+
+.sprite-boite-de-conserve_nb {
+    width: 95px;
+    height: 67px;
+    background-position: -5px -82px;
+}
+
+.sprite-boite-de-conserve_raviver {
+    width: 95px;
+    height: 67px;
+    background-position: -110px -5px;
+}
